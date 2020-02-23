@@ -14,9 +14,12 @@
   "author": "Anatoly",
   "license": "ISC",
   "dependencies": {
+    "ncp": "^2.0.0",
+    "request": "^2.88.2",
     "telegraf": "^3.36.0"
   },
   "devDependencies": {
+    "@types/request": "^2.48.4",
     "typescript": "^3.7.5"
   }
 }
